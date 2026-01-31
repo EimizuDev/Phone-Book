@@ -1,6 +1,6 @@
 # Phone Book
 
-Phone Book project where you can store, find and manage contacts.
+Phone Book project where you can store, find and manage contacts. I made this project from a Python course in 2024.
 
 ## Getting the files
 
